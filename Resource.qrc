@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>Image/copy.png</file>
+        <file>Image/fileopen.png</file>
+        <file>Image/hhelp.png</file>
+        <file>Image/nearme_reader.png</file>
+        <file>Image/new.png</file>
+        <file>Image/open.png</file>
+        <file>Image/pa.png</file>
+        <file>Image/qt.png</file>
+        <file>Image/save.png</file>
+    </qresource>
+</RCC>
